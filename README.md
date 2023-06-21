@@ -21,6 +21,7 @@ A step by step guide that will tell you how to get the development environment u
 ```
 $ Download the Source.cpp and the inputFile.txt 
 $ Add them to your C++ compiler or platform for running the code
-$ Run the Source.cpp file, or click on Start Without Debugging
+$ If you want to try a different input, make changes accordingly to the inputFile.txt
+$ Run the Source.cpp file, or click on Start Without Debugging to see the output in the console
 ```
 
